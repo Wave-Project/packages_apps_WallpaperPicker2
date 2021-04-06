@@ -242,7 +242,7 @@
 
     <!-- Content -->
     <!-- Title of the collection of wallpapers stored on the device itself. [CHAR LIMIT=30] -->
-    <string name="on_device_wallpapers_category_title">On-device wallpapers</string>
+    <string name="on_device_wallpapers_category_title">WaveOS wallpapers</string>
 
     <!-- Short title of the collection of wallpapers stored on the device itself.
          [CHAR LIMIT=30] -->
